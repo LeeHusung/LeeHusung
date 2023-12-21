@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hu Sung Lee, a steady backend developer</h1>
+<h1 align="left">Hi 👋, I'm Husung Lee, a steady backend developer</h1>
 <h3 align="left">I think routine is the best.</h3>
 
 - 💬 Ask me about **Java, Spring and so on.**
