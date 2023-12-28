@@ -10,3 +10,4 @@
 
 <h4>☆ my github status </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leehusung&show_icons=true&locale=en" alt="leehusung" /></p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mn04082)](https://solved.ac/mn04082/)
