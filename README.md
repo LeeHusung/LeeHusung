@@ -1,17 +1,49 @@
-<h1 align="left">Hi 👋, I'm Husung Lee, a steady backend developer</h1>
-<h3 align="left">I think routine is the best.</h3>
+<h4 align="center">안녕하세요 이후성입니다.</h4>
 
-- 💬 Ask me about **Java, Spring and so on.**
+<h3 align="center">BackEnd:</h3>
+<p align="center">
+    <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge&logo=QueryDSL&logoColor=white"></span>
 
-- 📫 How to reach me **mn040820@naver.com**
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<h3 align="center">Database:</h3>
+<p align="center">
+    <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"></span>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHusung&show_icons=true&theme=radical)
+<h3 align="center">DevOps:</h3>
+<p align="center">
+    <span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></span>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHusung&layout=compact)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mn04082)](https://solved.ac/mn04082)
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leehusung&show_icons=true&locale=en" alt="leehusung" /></p> -->
-<!-- <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mn04082"> -->
+<h3 align="center">FrontEnd:</h3>
+<p align="center">
+    <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"></span>
+</p>
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeHusung&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</p>
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHusung&layout=compact" alt="Top Langs">
+</p>
+<br>
+<p align="center">
+    <a href="https://solved.ac/mn04082">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=mn04082" alt="Solved.ac Profile">
+    </a>
+</p>
