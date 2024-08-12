@@ -37,10 +37,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeeHusung&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
-<br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHusung&layout=compact" alt="Top Langs">
-</p>
+
 <br>
 <p align="center">
     <a href="https://solved.ac/mn04082">
