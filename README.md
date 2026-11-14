@@ -3,7 +3,8 @@
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/LeeHusung/LeeHusung/output/snake.svg)
+
 
 <!--
 **LeeHusung/LeeHusung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
