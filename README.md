@@ -5,7 +5,7 @@
 
 # 👋 Welcome to my GitHub!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+GitHub!&center=true&width=440&color=39D353)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+HuSeong!;Welcome+to+my+GitHub!&center=true&width=440&color=39D353)
 
 
 ## 🐍 Contribution Snake
